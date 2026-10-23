@@ -77,6 +77,7 @@ Also worth a look: [GraphJS](https://github.com/sandeep-shaw10/GraphJS), a graph
 |---|---|
 | **Title** | DualFF-Former: A Fourier Context Integrated Hybrid CNN Transformer for Osteoporosis Detection in Hip X-Ray Images |
 | **Project No.** | Devres/IG2024/00483/MG (ICMR-funded, IIT (ISM) Dhanbad) |
+| **Status** | Filled |
 
 ---
 
